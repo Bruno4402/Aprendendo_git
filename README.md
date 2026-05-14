@@ -9,3 +9,5 @@ Repositório para a aula de git da turma 26 da Ilum.
 Neste momento, o repositório está em construção e estamos ainda atualizando o README.
 
 <h2>$$\langle\psi|{\;}|\psi\rangle$$</h2>
+
+Vamos aprender a fazer um commit local.
