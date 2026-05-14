@@ -12,3 +12,5 @@ Neste momento, o repositório está em construção e estamos ainda atualizando 
 
 Vamos aprender a fazer um commit local.
 Vamos ver agora commit com mais de um arquivo.
+
+Alterando um arquivo na nuvem.
